@@ -3,7 +3,7 @@ The school board notified Maria and her supervisor that the original data shows 
 
 ## Results
 
--  The district summary afected - How is the district summary affected? The District summary scores remained relatively similar with updated scores from Thomas High School.
+-  The district summary affected - How is the district summary affected? The District summary scores remained relatively similar with updated scores from Thomas High School.
 -  How is the school summary affected? The school summary was affected most with updated scores from Thomas High School. 
 
     The updated scores in students passing reading and math percentages were the lowest among schools.
